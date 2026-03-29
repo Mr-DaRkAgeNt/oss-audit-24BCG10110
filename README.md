@@ -110,7 +110,7 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 ## Conclusion
 
-This project provided hands-on experience with Linux shell scripting while exploring the real-world footprint of an open-source software project. By auditing Python — from its installation and filesystem locations to its licensing philosophy and community governance — this work bridges theoretical knowledge of FOSS principles with practical Linux skills.
+This project provided hands-on experience with Linux shell scripting while exploring the real-world footprint of an open-source software project. By auditing Python - from its installation and filesystem locations to its licensing philosophy and community governance - this work bridges theoretical knowledge of FOSS principles with practical Linux skills.
 The five scripts collectively demonstrate core Bash concepts: system inspection, package management queries, filesystem permission analysis, log parsing, and interactive user input. Together, they reflect how open-source tools like Python are deeply applied into the system of Linux environments, and why understanding them matters for any serious developer or system administrator.
 
 
