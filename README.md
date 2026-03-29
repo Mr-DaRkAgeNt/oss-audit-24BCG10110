@@ -16,12 +16,12 @@ Python was chosen for its ubiquity in Linux environments, its massive FOSS ecosy
 
 ```
 oss-audit-24BCG10110/
-├── script1.sh       # System Identity Report
-├── script2.sh       # FOSS Package Inspector
-├── script3.sh       # Disk and Permission Auditor
-├── script4.sh       # Log File Analyzer
-├── script5.sh       # Open Source Manifesto Generator
-└── README.md
+script1.sh       # System Identity Report
+script2.sh       # FOSS Package Inspector
+script3.sh       # Disk and Permission Auditor
+script4.sh       # Log File Analyzer
+script5.sh       # Open Source Manifesto Generator
+README.md
 ```
 
 ## Script Descriptions
